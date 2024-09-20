@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FvI8CCy5HKSQ/HzhcZ1qA3uSZnYLDusmuYT9hbFuNYc=",
+  "Source": "Lockshot.User.API",
+  "BasePath": "_content/Lockshot.User.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
